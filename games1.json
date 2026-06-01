@@ -1,0 +1,802 @@
+[
+  {
+    "id": "butterfly-shimai",
+    "title": "Butterfly Shimai",
+    "description": "Butterfly Shimai is a captivating mahjong connect game that takes you on a journey to match and release beautiful butterflies. Explore the enchanting world of butterflies as you connect identical pairs and set them free to soar.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/300.webp",
+    "iframe": "https://cslabfun.github.io/play/butterfly-shimai.html"
+  },
+  {
+    "id": "spades",
+    "title": "Spades",
+    "description": "Have fun playing a classic internet Spades against 3 other opponents.  Release Date March 2019  Platform Web browser (desktop and mobile)",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/301.webp",
+    "iframe": "https://cslabfun.github.io/play/spades.html"
+  },
+  {
+    "id": "ragdoll-archers",
+    "title": "Ragdoll Archers",
+    "description": "Ragdoll Archers is an archery game featuring bow and arrow-equipped stickmen with ragdoll physics. Fire arrows at a range of opponents while earning points to upgrade your abilities and ammunition.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/302.webp",
+    "iframe": "https://cslabfun.github.io/play/ragdoll-archers.html"
+  },
+  {
+    "id": "traffic-rider-vvq",
+    "title": "Traffic Rider",
+    "description": "Traffic Rider is a first-person driving bike endless game that puts you on a motorbike for an exhilarating ride. With a full career mode, lifelike bike sounds, and detailed graphics, it redefines arcade racing.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/303.webp",
+    "iframe": "https://cslabfun.github.io/play/traffic-rider-vvq.html"
+  },
+  {
+    "id": "dig-out-of-prison",
+    "title": "Dig out of Prison",
+    "description": "Dig Out of Prison is a casual puzzle game where you are an innocent man in jail, determined to plot your escape. All you habe in your jail cell is a spoon to use as a shovel to dig tunnels beneath your cell.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/304.webp",
+    "iframe": "https://cslabfun.github.io/play/dig-out-of-prison.html"
+  },
+  {
+    "id": "bloxdhop-io",
+    "title": "Bloxd.io",
+    "description": "Bloxd.io is an IO adventure game with Minecraft-style visuals where you can navigate obstacle courses, gather resources, craft tools, battle other players, and much more. With game modes ranging from parkour challenges and creative sandbox building to combat-based gameplay, there's something for every playstyle.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/305.webp",
+    "iframe": "https://cslabfun.github.io/play/bloxdhop-io.html"
+  },
+  {
+    "id": "mahjong-connect-1",
+    "title": "Mahjong Connect (Legacy)",
+    "description": "Mahjong Connect is a mahjong game to match all the tiles to clear the board. Can you beat all the levels?",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/306.webp",
+    "iframe": "https://cslabfun.github.io/play/mahjong-connect-1.html"
+  },
+  {
+    "id": "mage-tower-idle-defense",
+    "title": "Mage Castle Idle Defense",
+    "description": "Mage Castle Idle Defense is a strategic idle game where you wield the power of a mighty mage to protect your tower. Unlock devastating spells, enhance your runes and skills, and unleash clever tactics to overcome endless waves of enemies and towering bosses.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/307.webp",
+    "iframe": "https://cslabfun.github.io/play/mage-tower-idle-defense.html"
+  },
+  {
+    "id": "arrow-escape-puzzle",
+    "title": "Arrow Escape: Puzzle",
+    "description": "Arrow Escape: Puzzle is a logic puzzle where arrows block each other, and your goal is to untangle routes and clear the level by choosing the correct move order.FeaturesShort levels you can play in a minute.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/308.webp",
+    "iframe": "https://cslabfun.github.io/play/arrow-escape-puzzle.html"
+  },
+  {
+    "id": "bloons-tower-defense-3",
+    "title": "Bloons Tower Defense 3",
+    "description": "Bloons Tower Defense 3 is a tower defense game where you can place monkeys, pineapple bombs, needles, etc., to pop the balloons. Unlock new tracks and choose between 3 difficulty modes to achieve that total bloon popping satisfaction.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/309.webp",
+    "iframe": "https://cslabfun.github.io/play/bloons-tower-defense-3.html"
+  },
+  {
+    "id": "veck-io",
+    "title": "Veck.io",
+    "description": "Veck.io is a 3D multiplayer FPS IO shooting game with nonstop action among players across the globe. Players can compete in arcade mode, team battles ranging from 1v1 to 4v4, or fast-paced Gun Game challenges.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/310.webp",
+    "iframe": "https://cslabfun.github.io/play/veck-io.html"
+  },
+  {
+    "id": "mahjongg-solitaire",
+    "title": "Mahjongg Solitaire",
+    "description": "Mahjongg Solitaire is an online mahjong puzzle board game that features traditional rules and modern visuals. There are no shuffles, and the game is timed, but the game's pace is relaxed.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/311.webp",
+    "iframe": "https://cslabfun.github.io/play/mahjongg-solitaire.html"
+  },
+  {
+    "id": "forgotten-treasure-2---match-3",
+    "title": "Forgotten Treasure 2",
+    "description": "Forgotten Treasure 2 is a puzzle game where you combine jewels to crash obstacles using your logic and go through numerous challenges. At the moment, there are more than a thousand levels and this is far from the limit.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/312.webp",
+    "iframe": "https://cslabfun.github.io/play/forgotten-treasure-2---match-3.html"
+  },
+  {
+    "id": "spider-solitaire-2-suits",
+    "title": "Spider Solitaire 2 Suits",
+    "description": "Spider Solitaire 2 Suits is a challenging Solitaire game limited to two suits and two decks of cards. Move the cards around the tableau so they are in order by suit and number.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/313.webp",
+    "iframe": "https://cslabfun.github.io/play/spider-solitaire-2-suits.html"
+  },
+  {
+    "id": "smash-karts",
+    "title": "Smash Karts",
+    "description": "Smash Karts is a 3D multiplayer IO kart battle game. Drive your go-kart, pick up weapons, and blow up other karts to win!",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/314.webp",
+    "iframe": "https://cslabfun.github.io/play/smash-karts.html"
+  },
+  {
+    "id": "color-tap-coloring-by-numbers",
+    "title": "Color Tap: Coloring by Numbers",
+    "description": "Color Tap: Coloring by Numbers is a relaxation game for a serene world of creativity. Immerse yourself in the soothing art of coloring, one piece at a time, as you destress with each gentle tap.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/315.webp",
+    "iframe": "https://cslabfun.github.io/play/color-tap-coloring-by-numbers.html"
+  },
+  {
+    "id": "leek-factory-tycoon",
+    "title": "Leek Factory Tycoon",
+    "description": "Leek Factory Tycoon is an idle game where you will be managing your dream Leek Factory. Enjoy a steady flow of idle cash as you expand and upgrade your factories for big profits.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/316.webp",
+    "iframe": "https://cslabfun.github.io/play/leek-factory-tycoon.html"
+  },
+  {
+    "id": "food-truck-chef",
+    "title": "Food Truck Chef™: A Fun Cooking Game",
+    "description": "Food Truck Chef is a thrilling casual food game where you travel the globe, cooking iconic dishes from tacos to sushi. Manage your time, upgrade your kitchen, and serve customers to build your food truck empire.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/317.webp",
+    "iframe": "https://cslabfun.github.io/play/food-truck-chef.html"
+  },
+  {
+    "id": "frontwars-io",
+    "title": "FrontWars.io",
+    "description": "FrontWars.io is a multiplayer .io battle game where players battle it out to dominate as much of the globe as possible. You begin small and slowly work your way to conquer the world.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/318.webp",
+    "iframe": "https://cslabfun.github.io/play/frontwars-io.html"
+  },
+  {
+    "id": "8-ball-pool-wyr",
+    "title": "8 Ball Pool",
+    "description": "8 Ball Pool is a fun, classic sports pool game where you can test just how good you are at billiards. This 3D multiplayer pool game lets you play against friends or online players from around the world.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/319.webp",
+    "iframe": "https://cslabfun.github.io/play/8-ball-pool-wyr.html"
+  },
+  {
+    "id": "sniper-shot-bullet-time",
+    "title": "Sniper Shot: Bullet Time",
+    "description": "Sniper Shot: Bullet Time is a thrilling shooting sniper game that puts a powerful sniper rifle in your hands, challenging you to eliminate your enemies with precision and style. Line up your shot, and pull the trigger.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/320.webp",
+    "iframe": "https://cslabfun.github.io/play/sniper-shot-bullet-time.html"
+  },
+  {
+    "id": "bloxorz",
+    "title": "Bloxorz",
+    "description": "Bloxorz is a tricky puzzle game that tests your logical skills and sheer brain power. The objective is to get the block into the square hole and avoid falling off the edge.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/321.webp",
+    "iframe": "https://cslabfun.github.io/play/bloxorz.html"
+  },
+  {
+    "id": "word-wipe",
+    "title": "Word Wipe",
+    "description": "Word Wipe is a word search puzzle game where you connect letters to form words and clear them from the grid. Form words by combining letters, causing them to vanish and creating new letter combinations as others drop down.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/322.webp",
+    "iframe": "https://cslabfun.github.io/play/word-wipe.html"
+  },
+  {
+    "id": "the-ragdoll-cat-bgr",
+    "title": "The Cat in Yellow",
+    "description": "The Cat in Yellow is a first-person horror game and cat simulator where you take care of a strange yellow cat that may not be as harmless as it seems.The StoryOne day, you receive a mysterious package containing a cute little cat in a yellow outfit.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/323.webp",
+    "iframe": "https://cslabfun.github.io/play/the-ragdoll-cat-bgr.html"
+  },
+  {
+    "id": "2v2-io",
+    "title": "2v2.io",
+    "description": "2v2.io is a fast-paced building game.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/324.webp",
+    "iframe": "https://cslabfun.github.io/play/2v2-io.html"
+  },
+  {
+    "id": "castle-craft",
+    "title": "Castle Craft",
+    "description": "Castle Craft is a mystical adventure puzzle game where you merge resources while looking for Fiona's missing husband, Michael, all the while uncovering plenty of mysteries along the way. Begin in a fog-covered land, using ancient keys to explore hidden realms and trace the path of your lost family through different eras.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/325.webp",
+    "iframe": "https://cslabfun.github.io/play/castle-craft.html"
+  },
+  {
+    "id": "skydom-reforged",
+    "title": "Skydom: Reforged",
+    "description": "Skydom: Reforged is an exciting match-3 game and is presented by the developers of Match Arena and Skydom! Welcome - Skydom Reforged, a super-duper mod of classical Skydom with a fresh and unique look.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/326.webp",
+    "iframe": "https://cslabfun.github.io/play/skydom-reforged.html"
+  },
+  {
+    "id": "drive-quest---car-game",
+    "title": "Drive Quest",
+    "description": "Drive Quest is an open-world driving adventure where the road is yours to explore. Cruise between cities, uncover hidden areas, and take on exciting challenges like drifting, stunts, and speed tests.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/327.webp",
+    "iframe": "https://cslabfun.github.io/play/drive-quest---car-game.html"
+  },
+  {
+    "id": "8-ball-billiards-classic",
+    "title": "8 Ball Billiards Classic",
+    "description": "8-Ball Billiards is a free online pool game in our sports category, ideal for one or two players. You can play solo against AI or challenge other players in two-player mode.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/328.webp",
+    "iframe": "https://cslabfun.github.io/play/8-ball-billiards-classic.html"
+  },
+  {
+    "id": "ramp-car-vs-police-chase-psm",
+    "title": "Ramp Car VS Police: CHASE",
+    "description": "Experience a dangerous police chase as you drive a ramp car or a wedge truck through chaotic traffic.Game ModesChase: Start with a wanted level of 1 and cause as much chaos as possible.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/329.webp",
+    "iframe": "https://cslabfun.github.io/play/ramp-car-vs-police-chase-psm.html"
+  },
+  {
+    "id": "buildnow-gg",
+    "title": "BuildNow GG",
+    "description": "The official web location for BuildNow GG, an online build-and-shoot game featuring various game modes, weapons, and maps.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/330.webp",
+    "iframe": "https://cslabfun.github.io/play/buildnow-gg.html"
+  },
+  {
+    "id": "yatzy",
+    "title": "Yatzy",
+    "description": "Yatzy is one of the popular dice games. You can play this game online for free!",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/331.webp",
+    "iframe": "https://cslabfun.github.io/play/yatzy.html"
+  },
+  {
+    "id": "fairyland-merge-and-magic",
+    "title": "Fairyland Merge & Magic",
+    "description": "Fairyland Merge &amp; Magic is a puzzle casual merge game set on an enchanting island of imagination and wonder. Step into a vibrant mosaic of captivating stories, each intricately crafted with actual magical elements, where every move you make has the power to shape your own whimsical world.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/332.webp",
+    "iframe": "https://cslabfun.github.io/play/fairyland-merge-and-magic.html"
+  },
+  {
+    "id": "bricks-breaker",
+    "title": "Bricks Breaker",
+    "description": "Bricks Breaker is an arcade game to destroy the numbered bricks by shooting a ball at them. Have some fun with this simple ball shooter game.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/333.webp",
+    "iframe": "https://cslabfun.github.io/play/bricks-breaker.html"
+  },
+  {
+    "id": "war-the-knights",
+    "title": "War the Knights",
+    "description": "akCommand a fearless knight army in War The Knights, an intense action battle strategy game. Orchestrate tactical assaults, breach enemy lines, and capture flags to win.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/334.webp",
+    "iframe": "https://cslabfun.github.io/play/war-the-knights.html"
+  },
+  {
+    "id": "timewarriors",
+    "title": "TimeWarriors",
+    "description": "Time Warriors is a strategy game where you lead your army through history, from the Stone Age to futuristic battles. Upgrade your troops, build powerful bases, and use unique units and tactics to defeat your enemies.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/335.webp",
+    "iframe": "https://cslabfun.github.io/play/timewarriors.html"
+  },
+  {
+    "id": "arrow-exit-puzzle",
+    "title": "Arrow Escape",
+    "description": "Arrow Escape is a puzzle game that delivers fast-paced, strategic challenges for players who enjoy logic-driven gameplay and intense escape scenarios. Each level is a tricky arrow maze puzzle where you must carefully study the arrow paths and decide which arrow to tap first in order to clear the board.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/336.webp",
+    "iframe": "https://cslabfun.github.io/play/arrow-exit-puzzle.html"
+  },
+  {
+    "id": "stickman-kombat-2d",
+    "title": "Stickman Kombat 2D",
+    "description": "Stickman Kombat 2D is an action-packed fighting game where you are up against some fiercer opponents, each with their own set of skills and combat attacks. You aim to fight your way through challenging moves and defeat enemies to unlock new fighters and test your skills.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/337.webp",
+    "iframe": "https://cslabfun.github.io/play/stickman-kombat-2d.html"
+  },
+  {
+    "id": "bullet-force-multiplayer",
+    "title": "Bullet Force",
+    "description": "Bullet Force is an online multiplayer FPS game featuring fast-paced action. Battle against other players on tactical maps using a range of weapons at your disposal.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/338.webp",
+    "iframe": "https://cslabfun.github.io/play/bullet-force-multiplayer.html"
+  },
+  {
+    "id": "piece-of-cake-merge-and-bake",
+    "title": "Piece of Cake: Merge and Bake",
+    "description": "Piece of Cake: Merge and Bake is a puzzle casual game where you help Emily, the main character, breathe new life into her family’s rundown cafe while uncovering long-lost family secrets. Solve a variety of challenging puzzles, manage the cafe&#39;s operations, and craft creative item combinations to unlock new chapters of the story.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/339.webp",
+    "iframe": "https://cslabfun.github.io/play/piece-of-cake-merge-and-bake.html"
+  },
+  {
+    "id": "8-ball-pool-billiards-multiplayer",
+    "title": "8 Ball Pool Billiards Multiplayer",
+    "description": "8 Ball Pool Billiards Multiplayer is a competitive sports pool game that lets you test your skills in exhilarating 2-player matches against friends or go head-to-head with players from around the world. Perfect your game by competing against expert bots to sharpen your strategies and techniques.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/340.webp",
+    "iframe": "https://cslabfun.github.io/play/8-ball-pool-billiards-multiplayer.html"
+  },
+  {
+    "id": "racing-limits",
+    "title": "Racing Limits",
+    "description": "Racing Limits is a racing game that lets you push your skills to the max. Race and overtake vehicles in city and highway traffic with four thrilling game modes: carrier, infinite, against-time, and free mode.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/341.webp",
+    "iframe": "https://cslabfun.github.io/play/racing-limits.html"
+  },
+  {
+    "id": "supermarket-simulator-cashier-game",
+    "title": "Supermarket Simulator: Store Manager",
+    "description": "Supermarket Simulator: Store Manager is a dynamic retail experience where you juggle cashier duties and store management. Scan items, process payments, and keep customers happy while managing stock and organizing shelves.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/342.webp",
+    "iframe": "https://cslabfun.github.io/play/supermarket-simulator-cashier-game.html"
+  },
+  {
+    "id": "words-of-wonders",
+    "title": "Words of Wonders",
+    "description": "Words of Wonders is a crossword puzzle where you connect letters to reveal hidden words. Test your vocabulary and find all the words to progress and reach more challenging levels.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/343.webp",
+    "iframe": "https://cslabfun.github.io/play/words-of-wonders.html"
+  },
+  {
+    "id": "baseball",
+    "title": "Baseball",
+    "description": "Baseball is a sports game that lets you experience being part of the great American pastime as a batter, all in the comfort of your browser! There are 2 modes available to play, and both of them are just as fun as the other.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/344.webp",
+    "iframe": "https://cslabfun.github.io/play/baseball.html"
+  },
+  {
+    "id": "man-runner-2048",
+    "title": "Man Runner 2048",
+    "description": "Man Runner 2048 is a casual arcade game where your objective is to run and merge men till you reach 2048. Your goal is to get the highest score on each round, because at the end of the level, you will get a chance to shoot a giant monster.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/345.webp",
+    "iframe": "https://cslabfun.github.io/play/man-runner-2048.html"
+  },
+  {
+    "id": "wordmeister",
+    "title": "Wordmeister",
+    "description": "Wordmeister is an English word game similar to Scrabble. Use the letters provided and create words on the board to score points.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/346.webp",
+    "iframe": "https://cslabfun.github.io/play/wordmeister.html"
+  },
+  {
+    "id": "tower-swap",
+    "title": "Tower Swap",
+    "description": "Tower Swap is a clever puzzle game combining match-3 mechanics with addictive tower defense gameplay. Stop the dragons from reaching your castle by building your defenses through tactical tile-matching decisions",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/347.webp",
+    "iframe": "https://cslabfun.github.io/play/tower-swap.html"
+  },
+  {
+    "id": "the-farmers",
+    "title": "The Farmers",
+    "description": "The Farmers is a charming farming adventure where you create and grow your own paradise. You’ll cultivate crops, craft delicious recipes, and expand your land into thriving new territories.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/348.webp",
+    "iframe": "https://cslabfun.github.io/play/the-farmers.html"
+  },
+  {
+    "id": "spider-solitaire-fuw",
+    "title": "Spider Solitaire",
+    "description": "Spider Solitaire is a timeless card puzzle where strategy and precision lead to victory. Arrange cards in descending order from King to Ace within the same suit to clear the tableau.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/349.webp",
+    "iframe": "https://cslabfun.github.io/play/spider-solitaire-fuw.html"
+  },
+  {
+    "id": "numicolor",
+    "title": "Numicolor",
+    "description": "Discover a creative way to relax. Coloring by number helps you focus and switch off from daily worries.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/350.webp",
+    "iframe": "https://cslabfun.github.io/play/numicolor.html"
+  },
+  {
+    "id": "skillwarz",
+    "title": "SkillWarz",
+    "description": "SkillWarz is a fast-paced first-person shooter offering advanced movement mechanics and diverse game modes like Deathmatch, Gun Game, and Skull Hunt. Navigate through dynamic day and night maps featuring bounce pads, teleports, and battle pickups.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/351.webp",
+    "iframe": "https://cslabfun.github.io/play/skillwarz.html"
+  },
+  {
+    "id": "hexa-sort",
+    "title": "Hexa Sort",
+    "description": "Hexa Sort is an addictive puzzle-sorting game that combines strategic matching and merging challenges. In this brain teaser, you will get to shuffle, stack, and strategize to create satisfying color matches.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/352.webp",
+    "iframe": "https://cslabfun.github.io/play/hexa-sort.html"
+  },
+  {
+    "id": "mergest-kingdom",
+    "title": "Mergest Kingdom",
+    "description": "Mergest Kingdom is a merge puzzle and match-3 game where you create your kingdom by combining items in threes. Match resources to unlock new items, complete quests, and grow your land.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/353.webp",
+    "iframe": "https://cslabfun.github.io/play/mergest-kingdom.html"
+  },
+  {
+    "id": "pixel-blast",
+    "title": "Pixel Blast",
+    "description": "In this engaging color puzzle, cannons shoot at pixel blocks of their own color, smashing them and clearing the board step by step. To complete a level, manage the flow of shots wisely, avoid overloading the conveyor, and use boosters.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/354.webp",
+    "iframe": "https://cslabfun.github.io/play/pixel-blast.html"
+  },
+  {
+    "id": "daily-puzzle",
+    "title": "Daily Puzzle",
+    "description": "Daily Puzzle is an excellent choice for those who like to spend time putting jigsaws together. Check back every day so you don&#39;t miss a single new puzzle.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/355.webp",
+    "iframe": "https://cslabfun.github.io/play/daily-puzzle.html"
+  },
+  {
+    "id": "truck-simulator-european-roads",
+    "title": "Truck Simulator: European Roads",
+    "description": "Truck Simulator: European Roads is a simulation game where you step into the role of a professional truck driver. Experience realistic driving as you transport cargo across a wide range of European countries.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/356.webp",
+    "iframe": "https://cslabfun.github.io/play/truck-simulator-european-roads.html"
+  },
+  {
+    "id": "space-waves",
+    "title": "Space Waves",
+    "description": "Space Waves is an arcade game where you control an arrow through dozens of levels across multiple worlds and modes, dodging obstacles at every turn. Pick any level, any time, and let the difficulty faces guide how brave you're feeling.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/357.webp",
+    "iframe": "https://cslabfun.github.io/play/space-waves.html"
+  },
+  {
+    "id": "super-star-car",
+    "title": "Super Star Car",
+    "description": "Super Star Car is a driving Formula 1 racing game that puts you in the driver’s seat of high-speed action with a vast selection of cars and iconic circuits. Start your career as a professional racer and climb the ranks through thrilling campaign races, upgrading your car to enhance performance along the way.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/358.webp",
+    "iframe": "https://cslabfun.github.io/play/super-star-car.html"
+  },
+  {
+    "id": "bubble-blast-pwd",
+    "title": "Bubble Blast",
+    "description": "Bubble Blast is a fun, casual bubble shooter game where you pop bubbles and complete quests. This is the classic game you find yourself and those around you playing on your morning commute to work.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/359.webp",
+    "iframe": "https://cslabfun.github.io/play/bubble-blast-pwd.html"
+  },
+  {
+    "id": "rocketgoal-io",
+    "title": "RocketGoal.io",
+    "description": "RocketGoal.io is an IO sports game where you drive around a soccer field to compete in intense matches against other players. Drive rocket-powered cars across the arena, show off wild aerial moves, and of course, score as many goals as possible.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/360.webp",
+    "iframe": "https://cslabfun.github.io/play/rocketgoal-io.html"
+  },
+  {
+    "id": "deadly-descent-bzs",
+    "title": "Deadly Descent",
+    "description": "Deadly Descent is an exciting driving simulator game where you will need to speed your way through impossible-looking obstacles! They are difficult, but not impossible.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/361.webp",
+    "iframe": "https://cslabfun.github.io/play/deadly-descent-bzs.html"
+  },
+  {
+    "id": "human-clicker-grow-organs",
+    "title": "Human Clicker: Grow Organs",
+    "description": "Human Clicker: Grow Organs is an engaging clicker game where you create a human from scratch, starting with the organs.In the distant future, humanity’s genetic code has reached the brink of collapse.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/362.webp",
+    "iframe": "https://cslabfun.github.io/play/human-clicker-grow-organs.html"
+  },
+  {
+    "id": "jigpic-solitaire",
+    "title": "Jigpic Solitaire",
+    "description": "Step into a peaceful world of beautiful images made from gentle, carefully crafted blocks. Jigpic Solitaire is a game you will want to return to every day.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/363.webp",
+    "iframe": "https://cslabfun.github.io/play/jigpic-solitaire.html"
+  },
+  {
+    "id": "basketbros",
+    "title": "BasketBros",
+    "description": "BasketBros is a fast-paced basketball game that offers both online and offline gameplay. Choose a player, customize your style, and compete in single-player and multiplayer games.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/364.webp",
+    "iframe": "https://cslabfun.github.io/play/basketbros.html"
+  },
+  {
+    "id": "99-nights-bloxd-io",
+    "title": "99 Nights (Bloxd.io)",
+    "description": "99 Nights is an action-adventure game where your survival skills are put to the test, and nighttime creatures attack you after dark. Gather resources, weapons &amp; build your defenses along with other players while you unlock tools to help you level up and protect your base.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/365.webp",
+    "iframe": "https://cslabfun.github.io/play/99-nights-bloxd-io.html"
+  },
+  {
+    "id": "poxel-io",
+    "title": "Poxel.io",
+    "description": "Poxel.io is a, io fast-paced first-person shooter that throws you into intense pixelated battles across diverse maps. Choose from a wide arsenal of weapons, master different game modes, and outplay your rivals to claim the top spot.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/366.webp",
+    "iframe": "https://cslabfun.github.io/play/poxel-io.html"
+  },
+  {
+    "id": "chess-free",
+    "title": "Chess Free",
+    "description": "Chess Free is an online puzzle chess game where you can compete against players worldwide in exciting one-on-one matches. Challenge yourself by outsmarting opponents of various skill levels to strengthen yours.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/367.webp",
+    "iframe": "https://cslabfun.github.io/play/chess-free.html"
+  },
+  {
+    "id": "smash-the-car-to-pieces-lug",
+    "title": "Smash the Car to Pieces!",
+    "description": "Smash the Car to Pieces! is a chaotic destruction simulator that invites you to shred vehicles using an impressive range of tools and explosive gadgets.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/368.webp",
+    "iframe": "https://cslabfun.github.io/play/smash-the-car-to-pieces-lug.html"
+  },
+  {
+    "id": "ships-3d",
+    "title": "Ships 3D",
+    "description": "Ships 3D is an online naval warfare game featuring frantic battles and chaotic smash-ups at sea. Join your friends in thrilling multiplayer ship wars featuring up to 20 players.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/369.webp",
+    "iframe": "https://cslabfun.github.io/play/ships-3d.html"
+  },
+  {
+    "id": "gear-factory",
+    "title": "Gear Factory",
+    "description": "Gear Factory is an idle and incremental game where you build a coin-generating machine out of interlocking gears. You start with a single spinning center gear on a small grid and grow your factory into a massive, multi-tiered engine of wealth.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/370.webp",
+    "iframe": "https://cslabfun.github.io/play/gear-factory.html"
+  },
+  {
+    "id": "bubble-shooter-classic",
+    "title": "Bubble Shooter",
+    "description": "Bubble Shooter is a popular casual game that combines simple mechanics with an addictive rewards system. Based on the arcade classic Puzzle Bobble (1994), Bubble Shooter challenges players to aim and shoot a bubble cannon to clear as many colorful bubbles off the screen as possible.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/371.webp",
+    "iframe": "https://cslabfun.github.io/play/bubble-shooter-classic.html"
+  },
+  {
+    "id": "basket-random",
+    "title": "Basket Random",
+    "description": "Basket Random is a chaotic 2-player arcade sports game with unpredictable physics. Bounce and battle for the ball across wild courts, with each dunk launching you to the next level!",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/372.webp",
+    "iframe": "https://cslabfun.github.io/play/basket-random.html"
+  },
+  {
+    "id": "liquid-swarm",
+    "title": "Liquid Swarm",
+    "description": "Liquid Swarm is a fast-paced arcade roguelite where you become the ultimate consuming force!FeaturesSurround and Absorb: Trap packs of enemies to conquer and absorb them into your growing swarm.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/373.webp",
+    "iframe": "https://cslabfun.github.io/play/liquid-swarm.html"
+  },
+  {
+    "id": "idol-livestream-fashion-game",
+    "title": "Idol Livestream: Fashion Game",
+    "description": "Idol Livestream: Fashion Game is a beauty fashion game that puts your designer skills to the test by dressing up a character just waiting to become trandy with stylish clothes, accessories, and makeup. After whipping up the perfect look, you get to showcase your creations on a livestream.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/374.webp",
+    "iframe": "https://cslabfun.github.io/play/idol-livestream-fashion-game.html"
+  },
+  {
+    "id": "open-house",
+    "title": "Open House",
+    "description": "Open House is a puzzle match-3 game where you&#39;re unexpectedly tasked with turning an abandoned residence into your dream home via one puzzle at a time. Each puzzle brings about new furnishings and upgrades to keep you hooked.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/375.webp",
+    "iframe": "https://cslabfun.github.io/play/open-house.html"
+  },
+  {
+    "id": "count-masters-stickman-games",
+    "title": "Count Masters: Stickman Games",
+    "description": "Count Masters: Stickman Games is a fast-paced running game where you gather a growing army of stickmen to clash against rival crowds. Navigate through obstacles, choose the best paths to multiply your numbers, and lead your team to victory.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/376.webp",
+    "iframe": "https://cslabfun.github.io/play/count-masters-stickman-games.html"
+  },
+  {
+    "id": "crazy-flips-3d",
+    "title": "Crazy Flips 3D",
+    "description": "Crazy Flips 3D is an awesome sports game to do perfect flips, such as frontflips, backflips, and gainer tricks from high cliffs.Release DateJuly 2021PlatformWeb browser",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/377.webp",
+    "iframe": "https://cslabfun.github.io/play/crazy-flips-3d.html"
+  },
+  {
+    "id": "openfront-gsw",
+    "title": "Openfront",
+    "description": "Openfront.io is an IO battle game where you expand your territory, build up your economy, forge alliances, and drop bombs to dominate the map.How to Play OpenfrontBefore jumping in, you'll choose how you want to play.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/378.webp",
+    "iframe": "https://cslabfun.github.io/play/openfront-gsw.html"
+  },
+  {
+    "id": "slice-master",
+    "title": "Slice Master",
+    "description": "Slice Master is a casual one-person game whose goal is to slice everything in sight, well, almost everything. This one-button game is driven by precision, timing, and discernment to rack up a high score.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/379.webp",
+    "iframe": "https://cslabfun.github.io/play/slice-master.html"
+  },
+  {
+    "id": "hazmob-fps-online-shooter",
+    "title": "Hazmob FPS: Online Shooter",
+    "description": "Hazmob FPS: Online Shooter is a multiplayer shooting FPS game where every second counts! Play against other players across multiple game modes in non-stop combat.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/380.webp",
+    "iframe": "https://cslabfun.github.io/play/hazmob-fps-online-shooter.html"
+  },
+  {
+    "id": "high-school-popular-games",
+    "title": "High School Popular Girls",
+    "description": "It is hard to be a new girl. But don't you think it will be exciting?",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/381.webp",
+    "iframe": "https://cslabfun.github.io/play/high-school-popular-games.html"
+  },
+  {
+    "id": "doodle-road",
+    "title": "Doodle Road",
+    "description": "Doodle Road is an imaginative and captivating 2D casual game that combines creativity with problem-solving. In this fun browser game, your primary objective is to draw a path that will successfully guide a car from the starting point to the finish line.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/382.webp",
+    "iframe": "https://cslabfun.github.io/play/doodle-road.html"
+  },
+  {
+    "id": "cubes-2048-io",
+    "title": "Cubes 2048.io",
+    "description": "Cubes 2048.io is an addictive online game that fuses Snake and 2048. Get a bigger number by collecting free cubes and eating other players with a smaller number than you.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/383.webp",
+    "iframe": "https://cslabfun.github.io/play/cubes-2048-io.html"
+  },
+  {
+    "id": "mahjong-titans",
+    "title": "Mahjong Titans",
+    "description": "Mahjong Titans is an iconic Mahjong game where you continually match two tiles to remove them from the board until there are none left. When you clear all the tiles, the level is complete!",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/384.webp",
+    "iframe": "https://cslabfun.github.io/play/mahjong-titans.html"
+  },
+  {
+    "id": "blockbuster-puzzle",
+    "title": "BlockBuster Puzzle",
+    "description": "BlockBuster Puzzle is a Tetris-like game where you match colorful blocks so they disappear from the game screen. Unlock new realms and challenges as you progress, enjoying vibrant graphics and immersive gameplay.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/385.webp",
+    "iframe": "https://cslabfun.github.io/play/blockbuster-puzzle.html"
+  },
+  {
+    "id": "stabfish2-io-multiplayer",
+    "title": "Stabfish 2",
+    "description": "Stabfish 2 is an IO shark game that takes the intense underwater combat of Stabfish.io to a whole new level! You are in an arena as a deadly shark, ready for thrilling battles against other players, aiming to impale as many rivals as possible.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/386.webp",
+    "iframe": "https://cslabfun.github.io/play/stabfish2-io-multiplayer.html"
+  },
+  {
+    "id": "mx-offroad-master",
+    "title": "MX Offroad Master",
+    "description": "MX Offroad Master is a driving bike game where you cycle down steep mountain slopes. Hop on any of the four mountain bikes and get ready for high-octane stunts.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/387.webp",
+    "iframe": "https://cslabfun.github.io/play/mx-offroad-master.html"
+  },
+  {
+    "id": "solitaire-home-story",
+    "title": "Solitaire Home Story",
+    "description": "Solitaire Home Story is a puzzle card game where you play through multiple levels of the solitaire card game, which helps you unlock home renovations as you slowly unfold the dramatic story set in the town of Brook's End.How to Play Solitaire Home StoryYou play as Alice, who has just returned to her childhood home with her friend Tara, a few years after her mom passed away, only to find the place in terrible shape.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/388.webp",
+    "iframe": "https://cslabfun.github.io/play/solitaire-home-story.html"
+  },
+  {
+    "id": "army-base-of-america",
+    "title": "Army Base Of America",
+    "description": "This military tycoon game combines base management, soldier training, and territorial conquest into one action-packed experience.Train your soldiers and improve their combat abilitiesUpgrade your troops with better equipment and stronger statsBuild and expand your military camp to grow your armyFight against enemy forces in strategic battlesCapture enemy territories and expand your control across the mapManage your resources and strengthen your war operationsLead your army to victory and protect America from hostile forces",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/389.webp",
+    "iframe": "https://cslabfun.github.io/play/army-base-of-america.html"
+  },
+  {
+    "id": "blast-miner",
+    "title": "Blast Miner",
+    "description": "Blast and drill your way to the core of the planet.Use your rocket launcher and drill to mine ores, earn money, and upgrade your equipment to reach even greater depths.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/390.webp",
+    "iframe": "https://cslabfun.github.io/play/blast-miner.html"
+  },
+  {
+    "id": "parking-jam-dqq",
+    "title": "Parking Jam",
+    "description": "Parking Jam is a challenging puzzle game where you untangle a crowded parking lot one car at a time. Use your logic and problem-solving skills to move vehicles in the correct order, clearing the way without causing chaos.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/391.webp",
+    "iframe": "https://cslabfun.github.io/play/parking-jam-dqq.html"
+  },
+  {
+    "id": "magic-towers-solitaire",
+    "title": "Magic Towers Solitaire",
+    "description": "Magic Towers Solitaire is a free solitaire game with a medieval theme. Move all the cards from the three peaks back to the deck.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/392.webp",
+    "iframe": "https://cslabfun.github.io/play/magic-towers-solitaire.html"
+  },
+  {
+    "id": "card-solitaire-word-game",
+    "title": "Card Solitaire: Word Game",
+    "description": "Card Solitaire: Word Game is a clever logic game that trains your brain in a fresh and satisfying way. It combines classic solitaire-style sorting with word puzzles and smart logic challenges, creating a relaxing experience that still keeps you thinking.In each level, you will sort a mix of image cards and word cards, matching them correctly while working within a limited number of moves.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/393.webp",
+    "iframe": "https://cslabfun.github.io/play/card-solitaire-word-game.html"
+  },
+  {
+    "id": "hexanaut-io",
+    "title": "Hexanaut.io",
+    "description": "Hexanaut.io is an io game where you conquer the largest area you can. Be careful not to cut your own line and also not be cut by another player too.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/394.webp",
+    "iframe": "https://cslabfun.github.io/play/hexanaut-io.html"
+  },
+  {
+    "id": "worldguessr",
+    "title": "WorldGuessr Free GeoGuessr",
+    "description": "Worldguessr is a casual quiz game, a free alternative to Geoguessr, perfect for testing and expanding your geography skills through immersive Street View exploration. Each round, you will find yourself dropped into random locations around the globe, with only environmental clues to guide you in pinpointing your exact whereabouts.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/395.webp",
+    "iframe": "https://cslabfun.github.io/play/worldguessr.html"
+  },
+  {
+    "id": "brainrot-arena-online",
+    "title": "Brainrot Arena Online",
+    "description": "Brainrot Arena Online is a multiplayer online game where you buy lucky blocks, open them, and get random brainrots like Ballerina Cappuccino, Six Seven 67, Tung Tung Sahur, Cappuccino Assassino, and more.Sneak into other players’ bases, intercept lucky blocks on the way, earn income from your brainrots, upgrade them for PvP battles, and remember, any brainrot or lucky block can be stolen.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/396.webp",
+    "iframe": "https://cslabfun.github.io/play/brainrot-arena-online.html"
+  },
+  {
+    "id": "tiles-of-the-simpsons",
+    "title": "Tiles of the Simpsons",
+    "description": "Tiles of the Simpsons is a fun and addictive puzzle Mahjong-inspired tile-matching game that brings your favorite characters from The Simpsons to life! The game aims to clear the board by matching identical tiles, each featuring iconic characters, items, and scenes from the beloved show.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/397.webp",
+    "iframe": "https://cslabfun.github.io/play/tiles-of-the-simpsons.html"
+  },
+  {
+    "id": "gulper-io",
+    "title": "Gulper.io",
+    "description": "Gulper.io is an online IO snake game where you compete against other players in a multiplayer battle arena. Like Slither.io, you take control of a worm and nurture it to become a healthy, strong, indestructible snake.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/398.webp",
+    "iframe": "https://cslabfun.github.io/play/gulper-io.html"
+  },
+  {
+    "id": "mansion-tale-merge-secrets",
+    "title": "Mansion Tale: Merge Secrets",
+    "description": "Discover Mansion Tale: Merge Secrets, your ultimate casual puzzle adventure. Dive into exciting merge gameplay combined with home renovation challenges as you uncover mysteries and restore a grand estate.",
+    "genre": "Basketball, Bike, Car, Casual, Controller, Browser Game",
+    "thumbnail": "https://cslabfun.github.io/images/399.webp",
+    "iframe": "https://cslabfun.github.io/play/mansion-tale-merge-secrets.html"
+  }
+]
